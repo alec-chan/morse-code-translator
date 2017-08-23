@@ -1,14 +1,14 @@
 # morse-code-translator
 Translates between alphanumeric text and morse code and generates audio for morse code.
 
-##Setup
+## Setup
 Requires python 2.7 and [Pyaudio](http://people.csail.mit.edu/hubert/pyaudio/)
 Can be installed through pip:
 ```
 pip install pyaudio
 ```
 
-##Usage
+## Usage
 ```
 #text -> morse (this also will play the morse code audio through your speakers)
 python translator.py "<your text>"
