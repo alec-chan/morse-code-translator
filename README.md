@@ -1,4 +1,7 @@
 # morse-code-translator
+
+[![PyPI version](https://badge.fury.io/py/morse-code-translator.svg)](https://badge.fury.io/py/morse-code-translator)
+
 Translates between alphanumeric text and morse code and generates audio for morse code.
 
 ## Setup
